@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 5px;
+}
+*{
+    box-sizing: border-box;
+}
+::placeholder {
+    color: white;
+}
+
